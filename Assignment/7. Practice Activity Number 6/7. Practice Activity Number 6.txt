@@ -1,0 +1,22 @@
+Create a new viz, with State on the Rows shelf and Sum(Population) as a Text mark.
+https://public.tableau.com/profile/ashish.gupta3831#!/vizhome/7_PracticeActivityNumber6/StateWithPopulation?publish=yes
+
+Create a new group, grouping together all states which start with the letter M.
+https://public.tableau.com/profile/ashish.gupta3831#!/vizhome/7_PracticeActivityNumber6/StateWithStartWithM?publish=yes
+
+Create a new set of "State (group)", containing the top 5 state groups based on Population.
+https://public.tableau.com/profile/ashish.gupta3831#!/vizhome/7_PracticeActivityNumber6/Top5PopulationOfState?publish=yes
+
+Order the viz by Sum of Population descending.
+Not able to understand this point
+
+Go back to the map viz (or create a fresh map), and change the color scheme to the newly created set.
+Not able to understand this point
+
+This Practice Activity continues from the previous activity. If you are starting afresh, connect to the States spreadsheet in the SourceDataf workbook.
+Create a new viz, with State on the Rows shelf and Sum(Population) as a Text mark.
+Create a new group, grouping together all states which start with the letter M.
+Order the viz by Sum of Population descending.
+Create a new set of "State (group)", containing the top 5 state groups based on Population.
+Go back to the map viz (or create a fresh map), and change the color scheme to the newly created set.
+Move this set to the rows shelf.
