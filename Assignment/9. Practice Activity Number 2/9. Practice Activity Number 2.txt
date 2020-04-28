@@ -1,11 +1,14 @@
-RegionNameWith12MonthAvgPercentageWithCircle
-https://public.tableau.com/profile/ashish.gupta3831#!/vizhome/9_PracticeActivityNumber/RegionNameWith12MonthAvgPercentageWithCircle?publish=yes
-
-RegionNameWith12MonthAvgPercentage
+Create a viz (a line chart) which shows, for each RegionName, the average 12 month percentage change per year.
+Color the lines according to the RegionName.
 https://public.tableau.com/profile/ashish.gupta3831#!/vizhome/9_PracticeActivityNumber/RegionNameWith12MonthAvgPercentage?publish=yes
 
-Connect to the HPIAdmins spreadsheet in the SourceDataÂ workbook.Â 
-Hide all of the fields except Date, Region Name, Index and 12m%Change.Â 
+Create a viz (a line chart) which shows, for each RegionName, the average 12 month percentage change per year.
+Color the lines according to the RegionName.
+Duplicate the viz, and change it to a circle display.
+https://public.tableau.com/profile/ashish.gupta3831#!/vizhome/9_PracticeActivityNumber/RegionNameWith12MonthAvgPercentageWithCircle?publish=yes
+
+Connect to the HPIAdmins spreadsheet in the SourceDataÃ‚ workbook.Ã‚ 
+Hide all of the fields except Date, Region Name, Index and 12m%Change.Ã‚ 
 Ensure that Date is a Date field, Region Name is a String field, and Index and 12m%Change are number fields.
 Rename 12m%Change as "12 month percentage change", and change its default aggregation to Average.
 Create a viz (a line chart) which shows, for each RegionName, the average 12 month percentage change per year.
