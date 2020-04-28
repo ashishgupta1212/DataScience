@@ -1,7 +1,7 @@
-SmallestFileSize
+Create a viz which shows a bar chart the smallest file size per "File Extension". (There are 3 File Extensions - I want the smallest file size for each of these file extensions.)Â 
 https://public.tableau.com/profile/ashish.gupta3831#!/vizhome/11_PracticeActivityNumber/SmallestFileSize?publish=yes
 
-Years and Quarters in the Columns
+Create another viz which shows a line chart with Years and Quarters in the Columns shelf, and the Minimum of the "#" field in the Rows shelf.
 https://public.tableau.com/profile/ashish.gupta3831#!/vizhome/11_PracticeActivityNumber/YearsandQuarters?publish=yes
 
 Right - over to you. Close Tableau, if you already have it open, and let's create a couple of vizzes.
