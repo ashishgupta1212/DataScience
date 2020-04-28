@@ -7,6 +7,9 @@ Color the lines according to the RegionName.
 Duplicate the viz, and change it to a circle display.
 https://public.tableau.com/profile/ashish.gupta3831#!/vizhome/9_PracticeActivityNumber/RegionNameWith12MonthAvgPercentageWithCircle?publish=yes
 
+Add the average of the Index as the size.
+Not able to understand this point.
+
 Connect to the HPIAdmins spreadsheet in the SourceDataÂ workbook.Â 
 Hide all of the fields except Date, Region Name, Index and 12m%Change.Â 
 Ensure that Date is a Date field, Region Name is a String field, and Index and 12m%Change are number fields.
