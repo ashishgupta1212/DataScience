@@ -7,7 +7,12 @@ Add a filter using the RegionName, add a filter card, and exclude "London" and "
 https://public.tableau.com/profile/ashish.gupta3831#!/vizhome/11_PracticeActivityNumber3/StackBarChartWithSalesVolume?publish=yes
 
 
-
+Create a new shape viz, with SalesVolume running along the bottom, Average of AveragePrice running up the graph, RegionName being the color, and Average of 12m%Change being the size. Exclude London and England.
+Add the Date to the Page card, using the Year and Quarter.
+Add labels showing the Minimum and Maximum of the Average of 12m%Change.
+Add an annotation in the bottom-right corner saying "House Price inflation by region."
+Change the speed to Fast, and press the play button in the Page card.
+Not able to solve this issue
 
 
 
