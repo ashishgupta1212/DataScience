@@ -1,4 +1,17 @@
-1. Connect to the HPIRegions spreadsheet (note: not the HPIAdmin spreadsheet) in the SourceDataf workbook.Â 
+Create a folder for the fields starting "Detached", and move them into that folder.
+https://github.com/ashishgupta1212/DataScience/blob/master/Assignment/11.%20Practice%20Activity%20Number%203/CreateFolderForDetachMeasures.JPG
+
+Create a viz (stacked bar chart) showing the Date going along the bottom (Year, then Quarter), the Sum of the SalesVolume as the bars, and the RegionName being the color.
+Highlight the West Midlands Region.
+Add a filter using the RegionName, add a filter card, and exclude "London" and "England".
+https://public.tableau.com/profile/ashish.gupta3831#!/vizhome/11_PracticeActivityNumber3/StackBarChartWithSalesVolume?publish=yes
+
+
+
+
+
+
+1. Connect to the HPIRegions spreadsheet (note: not the HPIAdmin spreadsheet) in the SourceDataf workbook.Ã‚ 
 2. Create a folder for the fields starting "Detached", and move them into that folder.
 3. Create a viz (stacked bar chart) showing the Date going along the bottom (Year, then Quarter), the Sum of the SalesVolume as the bars, and the RegionName being the color.
 4. Highlight the West Midlands Region.
