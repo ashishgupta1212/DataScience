@@ -1,3 +1,63 @@
+What is the range of the field SalesVolume? Create a histogram to find out.
+Change the "SalesVolume (bin)" so that there is a bar every 500.
+https://public.tableau.com/profile/ashish.gupta3831#!/vizhome/12_PracticeActivityNumber7/HistogramWithSalesVolume?publish=yes
+
+
+
+Create a heat map, withÂ 
+"Year(Date)" on the Rows shelf
+"Quarter(Date)" on the Columns shelf
+"SUM(SalesVolume)" as the color and label marks.
+
+https://public.tableau.com/profile/ashish.gupta3831#!/vizhome/12_PracticeActivityNumber7/HeatMapWithDate?publish=yes
+
+
+
+Create a heat map, withÂ 
+"Year(Date)" on the Rows shelf
+"Quarter(Date)" on the Columns shelf
+"SUM(SalesVolume)" as the color and label marks.
+Change it to a tree map, and remove the "Quarter(Date)" field.
+https://public.tableau.com/profile/ashish.gupta3831#!/vizhome/12_PracticeActivityNumber7/TreeMapWithDate?publish=yes
+
+
+
+Create a new viz, with
+Â  Â  "Year(Date)" on the Columns shelf, and
+Â  Â  "SUM(SalesVolume)" and "Avg(AveragePrice)" on the Rows shelf.
+https://public.tableau.com/profile/ashish.gupta3831#!/vizhome/12_PracticeActivityNumber7/VizWithSalesVolAndAvgPrice?publish=yes
+
+
+
+Create a new viz, with
+Â  Â  "Year(Date)" on the Columns shelf, and
+Â  Â  "SUM(SalesVolume)" and "Avg(AveragePrice)" on the Rows shelf.
+Put them on the same graph, using the same synchronized scale.
+https://public.tableau.com/profile/ashish.gupta3831#!/vizhome/12_PracticeActivityNumber7/VizWithSalesVolAndAvgPriceSynchScale?publish=yes
+
+
+
+Create a new scatter graph viz, with
+Â  Â  Avg(AveragePrice) on the Columns shelf,
+Â  Â  Sum(SalesVolume) on the Rows shelf, and
+Â  Â  Month(Date) in the Detail.
+https://public.tableau.com/profile/ashish.gupta3831#!/vizhome/12_PracticeActivityNumber7/ScatterGraphViz?publish=yes
+
+
+
+ Create a new scatter graph viz, with
+Â  Â  Avg(AveragePrice) on the Columns shelf,
+Â  Â  Sum(SalesVolume) on the Rows shelf, and
+Â  Â  Month(Date) in the Detail.
+8. Now add Year(Date) to the Pages shelf. Create a motion graph, showing the History for all marks, and using Both Trails and Marks.
+https://public.tableau.com/profile/ashish.gupta3831#!/vizhome/12_PracticeActivityNumber7/ScatterGraphMotionViz?publish=yes
+
+
+Create a dashboard, using the vizzes that you have just created.
+https://public.tableau.com/profile/ashish.gupta3831#!/vizhome/12_PracticeActivityNumber7/DashboardFinal?publish=yes
+
+
+
 1. Connect to the HPIRegions spreadsheet (note: not the HPIAdmin spreadsheet) in the SourceDataf workbook.Â 
 2. What is the range of the field SalesVolume? Create a histogram to find out.
 3. Change the "SalesVolume (bin)" so that there is a bar every 500.
