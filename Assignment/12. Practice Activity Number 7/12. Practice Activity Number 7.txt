@@ -1,0 +1,18 @@
+1. Connect to the HPIRegions spreadsheet (note: not the HPIAdmin spreadsheet) in the SourceDataf workbook.Â 
+2. What is the range of the field SalesVolume? Create a histogram to find out.
+3. Change the "SalesVolume (bin)" so that there is a bar every 500.
+4. Create a heat map, withÂ 
+Â  Â  "Year(Date)" on the Rows shelf
+Â  Â  "Quarter(Date)" on the Columns shelf
+Â  Â  "SUM(SalesVolume)" as the color and label marks.
+5. Change it to a tree map, and remove the "Quarter(Date)" field.
+6. Create a new viz, with
+Â  Â  "Year(Date)" on the Columns shelf, and
+Â  Â  "SUM(SalesVolume)" and "Avg(AveragePrice)" on the Rows shelf.
+Put them on the same graph, using the same synchronized scale.
+7. Create a new scatter graph viz, with
+Â  Â  Avg(AveragePrice) on the Columns shelf,
+Â  Â  Sum(SalesVolume) on the Rows shelf, and
+Â  Â  Month(Date) in the Detail.
+8. Now add Year(Date) to the Pages shelf. Create a motion graph, showing the History for all marks, and using Both Trails and Marks.
+9. Create a dashboard, using the vizzes that you have just created.
