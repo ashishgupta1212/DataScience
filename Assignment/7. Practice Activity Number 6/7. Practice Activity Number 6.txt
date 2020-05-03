@@ -5,7 +5,7 @@ Create a new group, grouping together all states which start with the letter M.
 https://public.tableau.com/profile/ashish.gupta3831#!/vizhome/7_PracticeActivityNumber6/StateWithStartWithM?publish=yes
 
 Create a new set of "State (group)", containing the top 5 state groups based on Population.
-https://public.tableau.com/profile/ashish.gupta3831#!/vizhome/7_PracticeActivityNumber6/Top5PopulationOfState?publish=yes
+https://public.tableau.com/profile/ashish.gupta3831#!/vizhome/7_PracticeActivityNumber6/Top5PopulationByDynamicInput?publish=yes
 
 Order the viz by Sum of Population descending.
 Not able to understand this point
